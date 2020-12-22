@@ -7,3 +7,5 @@
 - ESLint
 - Prettier
 - Editorconfig
+- Postgres
+- TypeORM
