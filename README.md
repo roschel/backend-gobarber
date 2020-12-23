@@ -9,5 +9,6 @@
 - Editorconfig
 - Postgres
 - TypeORM
-- bcryptjs
-- jsonwebtoken
+- Bcryptjs
+- Jsonwebtoken
+- Multer
