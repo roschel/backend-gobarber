@@ -1,6 +1,6 @@
 # Gobarber
 
-## Techonologies 👨‍💻:
+## Technologies 👨‍💻:
 
 - Typescript
 - Express
