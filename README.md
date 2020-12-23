@@ -9,3 +9,4 @@
 - Editorconfig
 - Postgres
 - TypeORM
+- bcryptjs
