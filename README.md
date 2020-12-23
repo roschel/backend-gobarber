@@ -10,3 +10,4 @@
 - Postgres
 - TypeORM
 - bcryptjs
+- jsonwebtoken
